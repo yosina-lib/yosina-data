@@ -1,0 +1,6 @@
+[submodule "Adobe-Japan1"]
+	path = Adobe-Japan1
+	url = https://github.com/adobe-type-tools/Adobe-Japan1.git
+[submodule "cjkvi-variants"]
+	path = cjkvi-variants
+	url = https://github.com/cjkvi/cjkvi-variants.git
