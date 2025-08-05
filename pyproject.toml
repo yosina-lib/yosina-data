@@ -1,0 +1,46 @@
+[tool.poetry]
+name = "yosina-data"
+version = "0.1.0"
+description = ""
+authors = ["Sho Shimauchi <sho.shimauchi@gmail.com>", "Moriyoshi Koizumi <mozo@mozo.jp>"]
+license = "MIT"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[tool.poetry.dev-dependencies]
+ruff = "^0.7.3"
+mypy = "^1.13.0"
+
+[tool.poetry.group.dev.dependencies]
+types-beautifulsoup4 = "^4.12.0.20241020"
+
+[tool.ruff]
+# Exclude a variety of commonly ignored directories.
+exclude = [
+    ".git",
+    ".mypy_cache",
+    ".nox",
+    ".pytest_cache",
+    ".pytype",
+    ".ruff_cache",
+    ".venv",
+    ".vscode",
+    "__pypackages__",
+]
+line-length = 112
+indent-width = 4
+target-version = "py312"
+
+[tool.ruff.lint]
+ignore = ["E501", "E741"]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+skip-magic-trailing-comma = false
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

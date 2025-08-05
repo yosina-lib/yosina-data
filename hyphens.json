@@ -1,0 +1,861 @@
+[
+  {
+    "code": "U+002D",
+    "name": "HYPHEN MINUS",
+    "ascii": [
+      "U+002D"
+    ],
+    "shift_jis": [
+      129,
+      124
+    ],
+    "jisx0201": [
+      "U+002D"
+    ],
+    "jisx0208-1978": [
+      "U+2212"
+    ],
+    "jisx0208-1978-windows": [
+      "U+2212"
+    ],
+    "jisx0208-verbatim": null
+  },
+  {
+    "code": "U+007C",
+    "name": "VERTICAL LINE",
+    "ascii": [
+      "U+007C"
+    ],
+    "shift_jis": [
+      129,
+      98
+    ],
+    "jisx0201": [
+      "U+007C"
+    ],
+    "jisx0208-1978": [
+      "U+FF5C"
+    ],
+    "jisx0208-1978-windows": [
+      "U+FF5C"
+    ],
+    "jisx0208-verbatim": null
+  },
+  {
+    "code": "U+007E",
+    "name": "TILDE",
+    "ascii": [
+      "U+007E"
+    ],
+    "shift_jis": [
+      129,
+      96
+    ],
+    "jisx0201": [
+      "U+007E"
+    ],
+    "jisx0208-1978": [
+      "U+301C"
+    ],
+    "jisx0208-1978-windows": [
+      "U+FF5E"
+    ],
+    "jisx0208-verbatim": null
+  },
+  {
+    "code": "U+00A2",
+    "name": "CENT SIGN",
+    "ascii": null,
+    "shift_jis": [
+      129,
+      145
+    ],
+    "jisx0201": null,
+    "jisx0208-1978": [
+      "U+00A2"
+    ],
+    "jisx0208-1978-windows": [
+      "U+FFE0"
+    ],
+    "jisx0208-verbatim": "U+00A2"
+  },
+  {
+    "code": "U+00A3",
+    "name": "POUND SIGN",
+    "ascii": null,
+    "shift_jis": [
+      129,
+      146
+    ],
+    "jisx0201": null,
+    "jisx0208-1978": [
+      "U+00A3"
+    ],
+    "jisx0208-1978-windows": [
+      "U+FFE1"
+    ],
+    "jisx0208-verbatim": "U+00A3"
+  },
+  {
+    "code": "U+00A6",
+    "name": "BROKEN BAR",
+    "ascii": [
+      "U+007C"
+    ],
+    "shift_jis": [
+      250,
+      85
+    ],
+    "jisx0201": [
+      "U+007C"
+    ],
+    "jisx0208-1978": [
+      "U+FF5C"
+    ],
+    "jisx0208-1978-windows": [
+      "U+FF5C"
+    ],
+    "jisx0208-verbatim": "U+00A6"
+  },
+  {
+    "code": "U+02D7",
+    "name": "MODIFIER LETTER MINUS SIGN",
+    "ascii": [
+      "U+002D"
+    ],
+    "shift_jis": [
+      129,
+      124
+    ],
+    "jisx0201": [
+      "U+002D"
+    ],
+    "jisx0208-1978": [
+      "U+2212"
+    ],
+    "jisx0208-1978-windows": [
+      "U+FF0D"
+    ],
+    "jisx0208-verbatim": null
+  },
+  {
+    "code": "U+2010",
+    "name": "HYPHEN",
+    "ascii": [
+      "U+002D"
+    ],
+    "shift_jis": [
+      129,
+      93
+    ],
+    "jisx0201": [
+      "U+002D"
+    ],
+    "jisx0208-1978": [
+      "U+2010"
+    ],
+    "jisx0208-1978-windows": [
+      "U+2010"
+    ],
+    "jisx0208-verbatim": "U+2010"
+  },
+  {
+    "code": "U+2011",
+    "name": "NON-BREAKING HYPHEN",
+    "ascii": [
+      "U+002D"
+    ],
+    "shift_jis": [
+      129,
+      93
+    ],
+    "jisx0201": [
+      "U+002D"
+    ],
+    "jisx0208-1978": [
+      "U+2010"
+    ],
+    "jisx0208-1978-windows": [
+      "U+2010"
+    ],
+    "jisx0208-verbatim": null
+  },
+  {
+    "code": "U+2012",
+    "name": "FIGURE DASH",
+    "ascii": [
+      "U+002D"
+    ],
+    "shift_jis": [
+      129,
+      92
+    ],
+    "jisx0201": [
+      "U+002D"
+    ],
+    "jisx0208-1978": [
+      "U+2015"
+    ],
+    "jisx0208-1978-windows": [
+      "U+2015"
+    ],
+    "jisx0208-verbatim": null
+  },
+  {
+    "code": "U+2013",
+    "name": "EN DASH",
+    "ascii": [
+      "U+002D"
+    ],
+    "shift_jis": [
+      130,
+      156
+    ],
+    "jisx0201": [
+      "U+002D"
+    ],
+    "jisx0208-1978": [
+      "U+2015"
+    ],
+    "jisx0208-1978-windows": [
+      "U+2015"
+    ],
+    "jisx0208-verbatim": "U+2013"
+  },
+  {
+    "code": "U+2014",
+    "name": "EM DASH",
+    "ascii": [
+      "U+002D"
+    ],
+    "shift_jis": [
+      129,
+      92
+    ],
+    "jisx0201": [
+      "U+002D"
+    ],
+    "jisx0208-1978": [
+      "U+2014"
+    ],
+    "jisx0208-1978-windows": [
+      "U+2015"
+    ],
+    "jisx0208-verbatim": "U+2014"
+  },
+  {
+    "code": "U+2015",
+    "name": "HORIZONTAL BAR",
+    "ascii": [
+      "U+002D"
+    ],
+    "shift_jis": [
+      129,
+      92
+    ],
+    "jisx0201": [
+      "U+002D"
+    ],
+    "jisx0208-1978": [
+      "U+2015"
+    ],
+    "jisx0208-1978-windows": [
+      "U+2015"
+    ],
+    "jisx0208-verbatim": "U+2015"
+  },
+  {
+    "code": "U+2016",
+    "name": "DOUBLE VERTICAL LINE",
+    "ascii": null,
+    "shift_jis": [
+      81,
+      61
+    ],
+    "jisx0201": null,
+    "jisx0208-1978": [
+      "U+2016"
+    ],
+    "jisx0208-1978-windows": [
+      "U+2225"
+    ],
+    "jisx0208-verbatim": "U+2016"
+  },
+  {
+    "code": "U+203E",
+    "name": "OVERLINE",
+    "ascii": null,
+    "shift_jis": [
+      129,
+      80
+    ],
+    "jisx0201": [
+      "U+007E"
+    ],
+    "jisx0208-1978": [
+      "U+FFE3"
+    ],
+    "jisx0208-1978-windows": [
+      "U+FFE3"
+    ],
+    "jisx0208-verbatim": "U+203D"
+  },
+  {
+    "code": "U+2043",
+    "name": "HYPHEN BULLET",
+    "ascii": [
+      "U+002D"
+    ],
+    "shift_jis": [
+      129,
+      93
+    ],
+    "jisx0201": [
+      "U+002D"
+    ],
+    "jisx0208-1978": [
+      "U+2010"
+    ],
+    "jisx0208-1978-windows": [
+      "U+2010"
+    ],
+    "jisx0208-verbatim": null
+  },
+  {
+    "code": "U+2053",
+    "name": "SWUNG DASH",
+    "ascii": [
+      "U+007E"
+    ],
+    "shift_jis": [
+      129,
+      96
+    ],
+    "jisx0201": [
+      "U+007E"
+    ],
+    "jisx0208-1978": [
+      "U+301C"
+    ],
+    "jisx0208-1978-windows": [
+      "U+301C"
+    ],
+    "jisx0208-verbatim": null
+  },
+  {
+    "code": "U+2212",
+    "name": "MINUS SIGN",
+    "ascii": [
+      "U+002D"
+    ],
+    "shift_jis": [
+      129,
+      124
+    ],
+    "jisx0201": [
+      "U+002D"
+    ],
+    "jisx0208-1978": [
+      "U+2212"
+    ],
+    "jisx0208-1978-windows": [
+      "U+FF0D"
+    ],
+    "jisx0208-verbatim": "U+2212"
+  },
+  {
+    "code": "U+2225",
+    "name": "PARALLEL TO",
+    "ascii": null,
+    "shift_jis": [
+      81,
+      61
+    ],
+    "jisx0201": null,
+    "jisx0208-1978": [
+      "U+2016"
+    ],
+    "jisx0208-1978-windows": [
+      "U+2225"
+    ],
+    "jisx0208-verbatim": "U+2225"
+  },
+  {
+    "code": "U+223C",
+    "name": "TILDE OPERATOR",
+    "ascii": [
+      "U+007E"
+    ],
+    "shift_jis": [
+      129,
+      96
+    ],
+    "jisx0201": [
+      "U+007E"
+    ],
+    "jisx0208-1978": [
+      "U+301C"
+    ],
+    "jisx0208-1978-windows": [
+      "U+FF5E"
+    ],
+    "jisx0208-verbatim": null
+  },
+  {
+    "code": "U+223D",
+    "name": "REVERSE TILDE",
+    "ascii": [
+      "U+007E"
+    ],
+    "shift_jis": [
+      129,
+      96
+    ],
+    "jisx0201": [
+      "U+007E"
+    ],
+    "jisx0208-1978": [
+      "U+301C"
+    ],
+    "jisx0208-1978-windows": [
+      "U+FF5E"
+    ],
+    "jisx0208-verbatim": null
+  },
+  {
+    "code": "U+2500",
+    "name": "BOX DRAWINGS LIGHT HORIZONTAL",
+    "ascii": [
+      "U+002D"
+    ],
+    "shift_jis": [
+      129,
+      92
+    ],
+    "jisx0201": [
+      "U+002D"
+    ],
+    "jisx0208-1978": [
+      "U+2015"
+    ],
+    "jisx0208-1978-windows": [
+      "U+2015"
+    ],
+    "jisx0208-verbatim": "U+2500"
+  },
+  {
+    "code": "U+2501",
+    "name": "BOX DRAWINGS HEAVY HORIZONTAL",
+    "ascii": [
+      "U+002D"
+    ],
+    "shift_jis": [
+      129,
+      92
+    ],
+    "jisx0201": [
+      "U+002D"
+    ],
+    "jisx0208-1978": [
+      "U+2015"
+    ],
+    "jisx0208-1978-windows": [
+      "U+2015"
+    ],
+    "jisx0208-verbatim": "U+2501"
+  },
+  {
+    "code": "U+2502",
+    "name": "BOX DRAWINGS LIGHT VERTICAL",
+    "ascii": [
+      "U+007C"
+    ],
+    "shift_jis": [
+      129,
+      98
+    ],
+    "jisx0201": [
+      "U+007C"
+    ],
+    "jisx0208-1978": [
+      "U+FF5C"
+    ],
+    "jisx0208-1978-windows": [
+      "U+FF5C"
+    ],
+    "jisx0208-verbatim": "U+2502"
+  },
+  {
+    "code": "U+2796",
+    "name": "HEAVY MINUS SIGN",
+    "ascii": [
+      "U+002D"
+    ],
+    "shift_jis": [
+      129,
+      124
+    ],
+    "jisx0201": [
+      "U+002D"
+    ],
+    "jisx0208-1978": [
+      "U+2212"
+    ],
+    "jisx0208-1978-windows": [
+      "U+FF0D"
+    ],
+    "jisx0208-verbatim": null
+  },
+  {
+    "code": "U+29FF",
+    "name": "MINY",
+    "ascii": [
+      "U+002D"
+    ],
+    "shift_jis": [
+      129,
+      93
+    ],
+    "jisx0201": [
+      "U+002D"
+    ],
+    "jisx0208-1978": [
+      "U+2010"
+    ],
+    "jisx0208-1978-windows": [
+      "U+FF0D"
+    ],
+    "jisx0208-verbatim": null
+  },
+  {
+    "code": "U+2E3A",
+    "name": "TWO-EM DASH",
+    "ascii": [
+      "U+002D",
+      "U+002D"
+    ],
+    "shift_jis": [
+      129,
+      92,
+      129,
+      92
+    ],
+    "jisx0201": [
+      "U+002D",
+      "U+002D"
+    ],
+    "jisx0208-1978": [
+      "U+2014",
+      "U+2014"
+    ],
+    "jisx0208-1978-windows": [
+      "U+2015",
+      "U+2015"
+    ],
+    "jisx0208-verbatim": null
+  },
+  {
+    "code": "U+2E3B",
+    "name": "THREE-EM DASH",
+    "ascii": [
+      "U+002D",
+      "U+002D",
+      "U+002D"
+    ],
+    "shift_jis": [
+      129,
+      92,
+      129,
+      92,
+      129,
+      92
+    ],
+    "jisx0201": [
+      "U+002D",
+      "U+002D",
+      "U+002D"
+    ],
+    "jisx0208-1978": [
+      "U+2014",
+      "U+2014",
+      "U+2014"
+    ],
+    "jisx0208-1978-windows": [
+      "U+2015",
+      "U+2015",
+      "U+2015"
+    ],
+    "jisx0208-verbatim": null
+  },
+  {
+    "code": "U+301C",
+    "name": "WAVE DASH",
+    "ascii": [
+      "U+007E"
+    ],
+    "shift_jis": [
+      129,
+      96
+    ],
+    "jisx0201": [
+      "U+007E"
+    ],
+    "jisx0208-1978": [
+      "U+301C"
+    ],
+    "jisx0208-1978-windows": [
+      "U+FF5E"
+    ],
+    "jisx0208-verbatim": "U+301C"
+  },
+  {
+    "code": "U+30A0",
+    "name": "KATAKANA-HIRAGANA DOUBLE HYPHEN",
+    "ascii": [
+      "U+003D"
+    ],
+    "shift_jis": [
+      130,
+      155
+    ],
+    "jisx0201": [
+      "U+003D"
+    ],
+    "jisx0208-1978": [
+      "U+FF1D"
+    ],
+    "jisx0208-1978-windows": [
+      "U+FF1D"
+    ],
+    "jisx0208-verbatim": "U+30A0"
+  },
+  {
+    "code": "U+30FB",
+    "name": "KATAKANA MIDDLE DOT",
+    "ascii": null,
+    "shift_jis": [
+      129,
+      69
+    ],
+    "jisx0201": [
+      "U+FF65"
+    ],
+    "jisx0208-1978": [
+      "U+30FB"
+    ],
+    "jisx0208-1978-windows": [
+      "U+30FB"
+    ],
+    "jisx0208-verbatim": "U+30FB"
+  },
+  {
+    "code": "U+30FC",
+    "name": "KATAKANA-HIRAGANA PROLONGED SOUND MARK",
+    "ascii": [
+      "U+002D"
+    ],
+    "shift_jis": [
+      129,
+      91
+    ],
+    "jisx0201": [
+      "U+002D"
+    ],
+    "jisx0208-1978": [
+      "U+30FC"
+    ],
+    "jisx0208-1978-windows": [
+      "U+30FC"
+    ],
+    "jisx0208-verbatim": "U+30FC"
+  },
+  {
+    "code": "U+FE31",
+    "name": "PRESENTATION FORM FOR VERTICAL EM DASH",
+    "ascii": [
+      "U+007C"
+    ],
+    "shift_jis": [
+      129,
+      98
+    ],
+    "jisx0201": [
+      "U+007C"
+    ],
+    "jisx0208-1978": [
+      "U+FF5C"
+    ],
+    "jisx0208-1978-windows": [
+      "U+FF5C"
+    ],
+    "jisx0208-verbatim": null
+  },
+  {
+    "code": "U+FE58",
+    "name": "SMALL EM DASH",
+    "ascii": [
+      "U+002D"
+    ],
+    "shift_jis": [
+      129,
+      93
+    ],
+    "jisx0201": [
+      "U+002D"
+    ],
+    "jisx0208-1978": [
+      "U+2010"
+    ],
+    "jisx0208-1978-windows": [
+      "U+2010"
+    ],
+    "jisx0208-verbatim": null
+  },
+  {
+    "code": "U+FE63",
+    "name": "SMALL HYPHEN-MINUS",
+    "ascii": [
+      "U+002D"
+    ],
+    "shift_jis": [
+      129,
+      93
+    ],
+    "jisx0201": [
+      "U+002D"
+    ],
+    "jisx0208-1978": [
+      "U+2010"
+    ],
+    "jisx0208-1978-windows": [
+      "U+2010"
+    ],
+    "jisx0208-verbatim": null
+  },
+  {
+    "code": "U+FF0D",
+    "name": "FULLWIDTH HYPHEN MINUS",
+    "ascii": [
+      "U+002D"
+    ],
+    "shift_jis": [
+      129,
+      124
+    ],
+    "jisx0201": [
+      "U+002D"
+    ],
+    "jisx0208-1978": [
+      "U+2212"
+    ],
+    "jisx0208-1978-windows": [
+      "U+FF0D"
+    ],
+    "jisx0208-verbatim": null
+  },
+  {
+    "code": "U+FF5C",
+    "name": "FULLWIDTH VERTICAL LINE",
+    "ascii": [
+      "U+007C"
+    ],
+    "shift_jis": [
+      129,
+      98
+    ],
+    "jisx0201": [
+      "U+007C"
+    ],
+    "jisx0208-1978": [
+      "U+FF5C"
+    ],
+    "jisx0208-1978-windows": [
+      "U+FF5C"
+    ],
+    "jisx0208-verbatim": "U+FF5C"
+  },
+  {
+    "code": "U+FF5E",
+    "name": "FULLWIDTH TILDE",
+    "ascii": [
+      "U+007E"
+    ],
+    "shift_jis": [
+      129,
+      96
+    ],
+    "jisx0201": [
+      "U+007E"
+    ],
+    "jisx0208-1978": [
+      "U+301C"
+    ],
+    "jisx0208-1978-windows": [
+      "U+FF5E"
+    ],
+    "jisx0208-verbatim": null
+  },
+  {
+    "code": "U+FFE4",
+    "name": "FULLWIDTH BROKEN BAR",
+    "ascii": [
+      "U+007C"
+    ],
+    "shift_jis": [
+      250,
+      85 
+    ],
+    "jisx0201": [
+      "U+007C"
+    ],
+    "jisx0208-1978": [
+      "U+FF5C"
+    ],
+    "jisx0208-1978-windows": [
+      "U+FFE4"
+    ],
+    "jisx0208-verbatim": "U+FFE4"
+  },
+  {
+    "code": "U+FF70",
+    "name": "HALFWIDTH KATAKANA-HIRAGANA PROLONGED SOUND MARK",
+    "ascii": [
+      "U+002D"
+    ],
+    "shift_jis": [
+      129,
+      91
+    ],
+    "jisx0201": [
+      "U+FF70"
+    ],
+    "jisx0208-1978": [
+      "U+30FC"
+    ],
+    "jisx0208-1978-windows": [
+      "U+30FC"
+    ],
+    "jisx0208-verbatim": null
+  },
+  {
+    "code": "U+FFE8",
+    "name": "HALFWIDTH FORMS LIGHT VERTICAL",
+    "ascii": [
+      "U+007C"
+    ],
+    "shift_jis": [
+      129,
+      98
+    ],
+    "jisx0201": [
+      "U+007C"
+    ],
+    "jisx0208-1978": [
+      "U+FF5C"
+    ],
+    "jisx0208-1978-windows": [
+      "U+FF5C"
+    ],
+    "jisx0208-verbatim": null
+  }
+]

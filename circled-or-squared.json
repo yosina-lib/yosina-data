@@ -1,0 +1,2287 @@
+{
+  "U+00A9": {
+    "rendering": "C",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2117": {
+    "rendering": "P",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2460": {
+    "rendering": "1",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2461": {
+    "rendering": "2",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2462": {
+    "rendering": "3",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2463": {
+    "rendering": "4",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2464": {
+    "rendering": "5",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2465": {
+    "rendering": "6",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2466": {
+    "rendering": "7",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2467": {
+    "rendering": "8",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2468": {
+    "rendering": "9",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2469": {
+    "rendering": "10",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+246A": {
+    "rendering": "11",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+246B": {
+    "rendering": "12",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+246C": {
+    "rendering": "13",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+246D": {
+    "rendering": "14",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+246E": {
+    "rendering": "15",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+246F": {
+    "rendering": "16",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2470": {
+    "rendering": "17",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2471": {
+    "rendering": "18",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2472": {
+    "rendering": "19",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2473": {
+    "rendering": "20",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24B6": {
+    "rendering": "A",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24B7": {
+    "rendering": "B",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24B8": {
+    "rendering": "C",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24B9": {
+    "rendering": "D",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24BA": {
+    "rendering": "E",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24BB": {
+    "rendering": "F",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24BC": {
+    "rendering": "G",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24BD": {
+    "rendering": "H",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24BE": {
+    "rendering": "I",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24BF": {
+    "rendering": "J",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24C0": {
+    "rendering": "K",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24C1": {
+    "rendering": "L",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24C2": {
+    "rendering": "M",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24C3": {
+    "rendering": "N",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24C4": {
+    "rendering": "O",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24C5": {
+    "rendering": "P",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24C6": {
+    "rendering": "Q",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24C7": {
+    "rendering": "R",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24C8": {
+    "rendering": "S",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24C9": {
+    "rendering": "T",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24CA": {
+    "rendering": "U",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24CB": {
+    "rendering": "V",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24CC": {
+    "rendering": "W",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24CD": {
+    "rendering": "X",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24CE": {
+    "rendering": "Y",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24CF": {
+    "rendering": "Z",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24D0": {
+    "rendering": "a",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24D1": {
+    "rendering": "b",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24D2": {
+    "rendering": "c",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24D3": {
+    "rendering": "d",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24D4": {
+    "rendering": "e",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24D5": {
+    "rendering": "f",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24D6": {
+    "rendering": "g",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24D7": {
+    "rendering": "h",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24D8": {
+    "rendering": "i",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24D9": {
+    "rendering": "j",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24DA": {
+    "rendering": "k",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24DB": {
+    "rendering": "l",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24DC": {
+    "rendering": "m",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24DD": {
+    "rendering": "n",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24DE": {
+    "rendering": "o",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24DF": {
+    "rendering": "p",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24E0": {
+    "rendering": "q",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24E1": {
+    "rendering": "r",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24E2": {
+    "rendering": "s",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24E3": {
+    "rendering": "t",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24E4": {
+    "rendering": "u",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24E5": {
+    "rendering": "v",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24E6": {
+    "rendering": "w",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24E7": {
+    "rendering": "x",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24E8": {
+    "rendering": "y",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24E9": {
+    "rendering": "z",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24EA": {
+    "rendering": "0",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24EB": {
+    "rendering": "11",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24EC": {
+    "rendering": "12",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24ED": {
+    "rendering": "13",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24EE": {
+    "rendering": "14",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24EF": {
+    "rendering": "15",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24F0": {
+    "rendering": "16",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24F1": {
+    "rendering": "17",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24F2": {
+    "rendering": "18",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24F3": {
+    "rendering": "19",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24F4": {
+    "rendering": "20",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24F5": {
+    "rendering": "1",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24F6": {
+    "rendering": "2",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24F7": {
+    "rendering": "3",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24F8": {
+    "rendering": "4",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24F9": {
+    "rendering": "5",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24FA": {
+    "rendering": "6",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24FB": {
+    "rendering": "7",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24FC": {
+    "rendering": "8",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24FD": {
+    "rendering": "9",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24FE": {
+    "rendering": "10",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+24FF": {
+    "rendering": "0",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2776": {
+    "rendering": "1",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2777": {
+    "rendering": "2",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2778": {
+    "rendering": "3",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2779": {
+    "rendering": "4",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+277A": {
+    "rendering": "5",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+277B": {
+    "rendering": "6",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+277C": {
+    "rendering": "7",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+277D": {
+    "rendering": "8",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+277E": {
+    "rendering": "9",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+277F": {
+    "rendering": "10",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2780": {
+    "rendering": "1",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2781": {
+    "rendering": "2",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2782": {
+    "rendering": "3",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2783": {
+    "rendering": "4",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2784": {
+    "rendering": "5",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2785": {
+    "rendering": "6",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2786": {
+    "rendering": "7",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2787": {
+    "rendering": "8",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2788": {
+    "rendering": "9",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2789": {
+    "rendering": "10",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+278A": {
+    "rendering": "1",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+278B": {
+    "rendering": "2",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+278C": {
+    "rendering": "3",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+278D": {
+    "rendering": "4",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+278E": {
+    "rendering": "5",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+278F": {
+    "rendering": "6",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2790": {
+    "rendering": "7",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2791": {
+    "rendering": "8",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2792": {
+    "rendering": "9",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+2793": {
+    "rendering": "10",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3244": {
+    "rendering": "問",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3245": {
+    "rendering": "幼",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3246": {
+    "rendering": "文",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3247": {
+    "rendering": "箏",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3248": {
+    "rendering": "21",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3252": {
+    "rendering": "22",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3253": {
+    "rendering": "23",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3254": {
+    "rendering": "24",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3255": {
+    "rendering": "25",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3256": {
+    "rendering": "26",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3257": {
+    "rendering": "27",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3258": {
+    "rendering": "28",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3259": {
+    "rendering": "29",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+325A": {
+    "rendering": "30",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+325B": {
+    "rendering": "31",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+325C": {
+    "rendering": "32",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+325D": {
+    "rendering": "33",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+325E": {
+    "rendering": "34",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+325F": {
+    "rendering": "35",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3280": {
+    "rendering": "一",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3281": {
+    "rendering": "二",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3282": {
+    "rendering": "三",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3283": {
+    "rendering": "四",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3284": {
+    "rendering": "五",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3285": {
+    "rendering": "六",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3286": {
+    "rendering": "七",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3287": {
+    "rendering": "八",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3288": {
+    "rendering": "九",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3289": {
+    "rendering": "十",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+328A": {
+    "rendering": "月",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+328B": {
+    "rendering": "火",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+328C": {
+    "rendering": "水",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+328D": {
+    "rendering": "木",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+328E": {
+    "rendering": "金",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+328F": {
+    "rendering": "土",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3290": {
+    "rendering": "日",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3291": {
+    "rendering": "株",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3292": {
+    "rendering": "有",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3293": {
+    "rendering": "社",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3294": {
+    "rendering": "名",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3295": {
+    "rendering": "特",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3296": {
+    "rendering": "財",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3297": {
+    "rendering": "祝",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3298": {
+    "rendering": "労",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3299": {
+    "rendering": "秘",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+329A": {
+    "rendering": "男",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+329B": {
+    "rendering": "女",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+329C": {
+    "rendering": "適",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+329D": {
+    "rendering": "優",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+329E": {
+    "rendering": "印",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+329F": {
+    "rendering": "注",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32A0": {
+    "rendering": "項",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32A1": {
+    "rendering": "休",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32A2": {
+    "rendering": "写",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32A3": {
+    "rendering": "正",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32A4": {
+    "rendering": "上",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32A5": {
+    "rendering": "中",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32A6": {
+    "rendering": "下",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32A7": {
+    "rendering": "左",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32A8": {
+    "rendering": "右",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32A9": {
+    "rendering": "医",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32AA": {
+    "rendering": "宗",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32AB": {
+    "rendering": "学",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32AC": {
+    "rendering": "監",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32AD": {
+    "rendering": "企",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32AE": {
+    "rendering": "資",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32AF": {
+    "rendering": "協",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32B0": {
+    "rendering": "夜",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32B1": {
+    "rendering": "36",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32B2": {
+    "rendering": "37",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32B3": {
+    "rendering": "38",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32B4": {
+    "rendering": "39",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32B5": {
+    "rendering": "40",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32B6": {
+    "rendering": "41",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32B7": {
+    "rendering": "42",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32B8": {
+    "rendering": "43",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32B9": {
+    "rendering": "44",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32BA": {
+    "rendering": "45",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32BB": {
+    "rendering": "46",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32BC": {
+    "rendering": "47",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32BD": {
+    "rendering": "48",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32BE": {
+    "rendering": "49",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32BF": {
+    "rendering": "50",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32D0": {
+    "rendering": "ア",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32D1": {
+    "rendering": "イ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32D2": {
+    "rendering": "ウ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32D3": {
+    "rendering": "エ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32D4": {
+    "rendering": "オ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32D5": {
+    "rendering": "カ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32D6": {
+    "rendering": "キ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32D7": {
+    "rendering": "ク",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32D8": {
+    "rendering": "ケ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32D9": {
+    "rendering": "コ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32DA": {
+    "rendering": "サ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32DB": {
+    "rendering": "シ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32DC": {
+    "rendering": "ス",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32DD": {
+    "rendering": "セ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32DE": {
+    "rendering": "ソ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32DF": {
+    "rendering": "タ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32E0": {
+    "rendering": "チ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32E1": {
+    "rendering": "ツ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32E2": {
+    "rendering": "テ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32E3": {
+    "rendering": "ト",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32E4": {
+    "rendering": "ナ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32E5": {
+    "rendering": "ニ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32E6": {
+    "rendering": "ヌ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32E7": {
+    "rendering": "ネ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32E8": {
+    "rendering": "ノ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32E9": {
+    "rendering": "ハ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32EA": {
+    "rendering": "ヒ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32EB": {
+    "rendering": "フ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32EC": {
+    "rendering": "ヘ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32ED": {
+    "rendering": "ホ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32EE": {
+    "rendering": "マ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32EF": {
+    "rendering": "ミ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32F0": {
+    "rendering": "ム",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32F1": {
+    "rendering": "メ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32F2": {
+    "rendering": "モ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32F3": {
+    "rendering": "ヤ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32F4": {
+    "rendering": "ユ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32F5": {
+    "rendering": "ヨ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32F6": {
+    "rendering": "ラ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32F7": {
+    "rendering": "リ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32F8": {
+    "rendering": "ル",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32F9": {
+    "rendering": "レ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32FA": {
+    "rendering": "ロ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32FB": {
+    "rendering": "ワ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32FC": {
+    "rendering": "ヰ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32FD": {
+    "rendering": "ヱ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+32FE": {
+    "rendering": "ヲ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F10B": {
+    "rendering": "0",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F10C": {
+    "rendering": "0",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F12B": {
+    "rendering": "C",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F12C": {
+    "rendering": "R",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F12D": {
+    "rendering": "CD",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F12E": {
+    "rendering": "WZ",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F130": {
+    "rendering": "A",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F131": {
+    "rendering": "B",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F132": {
+    "rendering": "C",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F133": {
+    "rendering": "D",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F134": {
+    "rendering": "E",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F135": {
+    "rendering": "F",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F136": {
+    "rendering": "G",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F137": {
+    "rendering": "H",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F138": {
+    "rendering": "I",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F139": {
+    "rendering": "J",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F13A": {
+    "rendering": "K",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F13B": {
+    "rendering": "L",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F13C": {
+    "rendering": "M",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F13D": {
+    "rendering": "N",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F13E": {
+    "rendering": "O",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F13F": {
+    "rendering": "P",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F140": {
+    "rendering": "Q",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F141": {
+    "rendering": "R",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F142": {
+    "rendering": "S",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F143": {
+    "rendering": "T",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F144": {
+    "rendering": "U",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F145": {
+    "rendering": "V",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F146": {
+    "rendering": "W",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F147": {
+    "rendering": "X",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F148": {
+    "rendering": "Y",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F149": {
+    "rendering": "Z",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F14A": {
+    "rendering": "HV",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F14B": {
+    "rendering": "MV",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F14C": {
+    "rendering": "SD",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F14D": {
+    "rendering": "SS",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F14E": {
+    "rendering": "PPV",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F14F": {
+    "rendering": "WC",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F150": {
+    "rendering": "A",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F151": {
+    "rendering": "B",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F152": {
+    "rendering": "C",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F153": {
+    "rendering": "D",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F154": {
+    "rendering": "E",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F155": {
+    "rendering": "F",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F156": {
+    "rendering": "G",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F157": {
+    "rendering": "H",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F158": {
+    "rendering": "I",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F159": {
+    "rendering": "J",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F15A": {
+    "rendering": "K",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F15B": {
+    "rendering": "L",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F15C": {
+    "rendering": "M",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F15D": {
+    "rendering": "N",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F15E": {
+    "rendering": "O",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F15F": {
+    "rendering": "P",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F160": {
+    "rendering": "Q",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F161": {
+    "rendering": "R",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F162": {
+    "rendering": "S",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F163": {
+    "rendering": "T",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F164": {
+    "rendering": "U",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F165": {
+    "rendering": "V",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F166": {
+    "rendering": "W",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F167": {
+    "rendering": "X",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F168": {
+    "rendering": "Y",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F169": {
+    "rendering": "Z",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+1F170": {
+    "rendering": "A",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F171": {
+    "rendering": "B",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F172": {
+    "rendering": "C",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F173": {
+    "rendering": "D",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F174": {
+    "rendering": "E",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F175": {
+    "rendering": "F",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F176": {
+    "rendering": "G",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F177": {
+    "rendering": "H",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F178": {
+    "rendering": "I",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F179": {
+    "rendering": "J",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F17A": {
+    "rendering": "K",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F17B": {
+    "rendering": "L",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F17C": {
+    "rendering": "M",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F17D": {
+    "rendering": "N",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F17E": {
+    "rendering": "O",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F17F": {
+    "rendering": "P",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F180": {
+    "rendering": "Q",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F181": {
+    "rendering": "R",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F182": {
+    "rendering": "S",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F183": {
+    "rendering": "T",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F184": {
+    "rendering": "U",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F185": {
+    "rendering": "V",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F186": {
+    "rendering": "W",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F187": {
+    "rendering": "X",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F188": {
+    "rendering": "Y",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F189": {
+    "rendering": "Z",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F18B": {
+    "rendering": "IC",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F18C": {
+    "rendering": "PA",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F18D": {
+    "rendering": "SA",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F18E": {
+    "rendering": "AB",
+    "type": "square",
+    "emoji": true
+  },
+  "U+1F18F": {
+    "rendering": "WC",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F190": {
+    "rendering": "DJ",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F191": {
+    "rendering": "CL",
+    "type": "square",
+    "emoji": true
+  },
+  "U+1F192": {
+    "rendering": "COOL",
+    "type": "square",
+    "emoji": true
+  },
+  "U+1F193": {
+    "rendering": "FREE",
+    "type": "square",
+    "emoji": true
+  },
+  "U+1F194": {
+    "rendering": "ID",
+    "type": "square",
+    "emoji": true
+  },
+  "U+1F195": {
+    "rendering": "NEW",
+    "type": "square",
+    "emoji": true
+  },
+  "U+1F196": {
+    "rendering": "NG",
+    "type": "square",
+    "emoji": true
+  },
+  "U+1F197": {
+    "rendering": "OK",
+    "type": "square",
+    "emoji": true
+  },
+  "U+1F198": {
+    "rendering": "SOS",
+    "type": "square",
+    "emoji": true
+  },
+  "U+1F199": {
+    "rendering": "UP!",
+    "type": "square",
+    "emoji": true
+  },
+  "U+1F19A": {
+    "rendering": "VS",
+    "type": "square",
+    "emoji": true
+  },
+  "U+1F19B": {
+    "rendering": "3D",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F19C": {
+    "rendering": "2ndScr",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F19D": {
+    "rendering": "2K",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F19E": {
+    "rendering": "4K",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F19F": {
+    "rendering": "8K",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1A0": {
+    "rendering": "5.1",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1A1": {
+    "rendering": "7.1",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1A2": {
+    "rendering": "22.2",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1A3": {
+    "rendering": "60P",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1A4": {
+    "rendering": "120P",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1A5": {
+    "rendering": "d",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1A6": {
+    "rendering": "HC",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1A7": {
+    "rendering": "HDR",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1A8": {
+    "rendering": "Hi-Res",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1A9": {
+    "rendering": "Lossless",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1AA": {
+    "rendering": "SHV",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1AB": {
+    "rendering": "UHD",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1AC": {
+    "rendering": "VOD",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1AD": {
+    "rendering": "VOD",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1E6": {
+    "rendering": "A",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1E7": {
+    "rendering": "B",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1E8": {
+    "rendering": "C",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1E9": {
+    "rendering": "D",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1EA": {
+    "rendering": "E",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1EB": {
+    "rendering": "F",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1EC": {
+    "rendering": "G",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1ED": {
+    "rendering": "H",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1EE": {
+    "rendering": "I",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1EF": {
+    "rendering": "J",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1F0": {
+    "rendering": "K",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1F1": {
+    "rendering": "L",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1F2": {
+    "rendering": "M",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1F3": {
+    "rendering": "N",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1F4": {
+    "rendering": "O",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1F5": {
+    "rendering": "P",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1F6": {
+    "rendering": "Q",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1F7": {
+    "rendering": "R",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1F8": {
+    "rendering": "S",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1F9": {
+    "rendering": "T",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1FA": {
+    "rendering": "U",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1FB": {
+    "rendering": "V",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1FC": {
+    "rendering": "W",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1FD": {
+    "rendering": "X",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1FE": {
+    "rendering": "Y",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F1FF": {
+    "rendering": "Z",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F6BE": {
+    "rendering": "WC",
+    "type": "square",
+    "emoji": true
+  },
+  "U+1F200": {
+    "rendering": "ほか",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F201": {
+    "rendering": "ココ",
+    "type": "square",
+    "emoji": true
+  },
+  "U+1F202": {
+    "rendering": "サ",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F210": {
+    "rendering": "手",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F211": {
+    "rendering": "字",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F212": {
+    "rendering": "双",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F213": {
+    "rendering": "デ",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F214": {
+    "rendering": "二",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F215": {
+    "rendering": "多",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F216": {
+    "rendering": "解",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F217": {
+    "rendering": "天",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F218": {
+    "rendering": "交",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F219": {
+    "rendering": "映",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F21A": {
+    "rendering": "無",
+    "type": "square",
+    "emoji": true
+  },
+  "U+1F21B": {
+    "rendering": "料",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F21C": {
+    "rendering": "前",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F21D": {
+    "rendering": "後",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F21E": {
+    "rendering": "再",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F21F": {
+    "rendering": "新",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F220": {
+    "rendering": "初",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F221": {
+    "rendering": "終",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F222": {
+    "rendering": "生",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F223": {
+    "rendering": "販",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F224": {
+    "rendering": "声",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F225": {
+    "rendering": "吹",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F226": {
+    "rendering": "演",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F227": {
+    "rendering": "投",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F228": {
+    "rendering": "捕",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F229": {
+    "rendering": "一",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F22A": {
+    "rendering": "三",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F22B": {
+    "rendering": "遊",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F22C": {
+    "rendering": "左",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F22D": {
+    "rendering": "中",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F22E": {
+    "rendering": "右",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F22F": {
+    "rendering": "指",
+    "type": "square",
+    "emoji": true
+  },
+  "U+1F230": {
+    "rendering": "走",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F231": {
+    "rendering": "打",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F232": {
+    "rendering": "禁",
+    "type": "square",
+    "emoji": true
+  },
+  "U+1F233": {
+    "rendering": "空",
+    "type": "square",
+    "emoji": true
+  },
+  "U+1F234": {
+    "rendering": "合",
+    "type": "square",
+    "emoji": true
+  },
+  "U+1F235": {
+    "rendering": "満",
+    "type": "square",
+    "emoji": true
+  },
+  "U+1F236": {
+    "rendering": "有",
+    "type": "square",
+    "emoji": true
+  },
+  "U+1F237": {
+    "rendering": "月",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F238": {
+    "rendering": "申",
+    "type": "square",
+    "emoji": true
+  },
+  "U+1F239": {
+    "rendering": "割",
+    "type": "square",
+    "emoji": true
+  },
+  "U+1F23A": {
+    "rendering": "営",
+    "type": "square",
+    "emoji": true
+  },
+  "U+1F23B": {
+    "rendering": "配",
+    "type": "square",
+    "emoji": false
+  },
+  "U+1F250": {
+    "rendering": "得",
+    "type": "circle",
+    "emoji": true
+  },
+  "U+1F251": {
+    "rendering": "可",
+    "type": "circle",
+    "emoji": true
+  }
+}
