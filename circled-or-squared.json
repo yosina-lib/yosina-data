@@ -629,6 +629,11 @@
     "type": "circle",
     "emoji": false
   },
+  "U+3036": {
+    "rendering": "〒",
+    "type": "circle",
+    "emoji": false
+  },
   "U+3244": {
     "rendering": "問",
     "type": "circle",
