@@ -1,0 +1,430 @@
+[
+  {
+    "value": 1,
+    "codes": {
+      "upper": "U+2160",
+      "lower": "U+2170"
+    },
+    "shift_jis": {
+      "upper": [
+        135,
+        84
+      ],
+      "lower": [
+        134,
+        179
+      ]
+    },
+    "decomposed": {
+      "upper": [
+        "U+0049"
+      ],
+      "lower": [
+        "U+0069"
+      ]
+    }
+  },
+  {
+    "value": 2,
+    "codes": {
+      "upper": "U+2161",
+      "lower": "U+2171"
+    },
+    "shift_jis": {
+      "upper": [
+        135,
+        85
+      ],
+      "lower": [
+        134,
+        180
+      ]
+    },
+    "decomposed": {
+      "upper": [
+        "U+0049",
+        "U+0049"
+      ],
+      "lower": [
+        "U+0069",
+        "U+0069"
+      ]
+    }
+  },
+  {
+    "value": 3,
+    "codes": {
+      "upper": "U+2162",
+      "lower": "U+2172"
+    },
+    "shift_jis": {
+      "upper": [
+        135,
+        86
+      ],
+      "lower": [
+        134,
+        181
+      ]
+    },
+    "decomposed": {
+      "upper": [
+        "U+0049",
+        "U+0049",
+        "U+0049"
+      ],
+      "lower": [
+        "U+0069",
+        "U+0069",
+        "U+0069"
+      ]
+    }
+  },
+  {
+    "value": 4,
+    "codes": {
+      "upper": "U+2163",
+      "lower": "U+2173"
+    },
+    "shift_jis": {
+      "upper": [
+        135,
+        87
+      ],
+      "lower": [
+        134,
+        182
+      ]
+    },
+    "decomposed": {
+      "upper": [
+        "U+0049",
+        "U+0056"
+      ],
+      "lower": [
+        "U+0069",
+        "U+0076"
+      ]
+    }
+  },
+  {
+    "value": 5,
+    "codes": {
+      "upper": "U+2164",
+      "lower": "U+2174"
+    },
+    "shift_jis": {
+      "upper": [
+        135,
+        88
+      ],
+      "lower": [
+        134,
+        183
+      ]
+    },
+    "decomposed": {
+      "upper": [
+        "U+0056"
+      ],
+      "lower": [
+        "U+0076"
+      ]
+    }
+  },
+  {
+    "value": 6,
+    "codes": {
+      "upper": "U+2165",
+      "lower": "U+2175"
+    },
+    "shift_jis": {
+      "upper": [
+        135,
+        89
+      ],
+      "lower": [
+        134,
+        184
+      ]
+    },
+    "decomposed": {
+      "upper": [
+        "U+0056",
+        "U+0049"
+      ],
+      "lower": [
+        "U+0076",
+        "U+0069"
+      ]
+    }
+  },
+  {
+    "value": 7,
+    "codes": {
+      "upper": "U+2166",
+      "lower": "U+2176"
+    },
+    "shift_jis": {
+      "upper": [
+        135,
+        90
+      ],
+      "lower": [
+        134,
+        185
+      ]
+    },
+    "decomposed": {
+      "upper": [
+        "U+0056",
+        "U+0049",
+        "U+0049"
+      ],
+      "lower": [
+        "U+0076",
+        "U+0069",
+        "U+0069"
+      ]
+    }
+  },
+  {
+    "value": 8,
+    "codes": {
+      "upper": "U+2167",
+      "lower": "U+2177"
+    },
+    "shift_jis": {
+      "upper": [
+        135,
+        91
+      ],
+      "lower": [
+        134,
+        186
+      ]
+    },
+    "decomposed": {
+      "upper": [
+        "U+0056",
+        "U+0049",
+        "U+0049",
+        "U+0049"
+      ],
+      "lower": [
+        "U+0076",
+        "U+0069",
+        "U+0069",
+        "U+0069"
+      ]
+    }
+  },
+  {
+    "value": 9,
+    "codes": {
+      "upper": "U+2168",
+      "lower": "U+2178"
+    },
+    "shift_jis": {
+      "upper": [
+        135,
+        92
+      ],
+      "lower": [
+        134,
+        187
+      ]
+    },
+    "decomposed": {
+      "upper": [
+        "U+0049",
+        "U+0058"
+      ],
+      "lower": [
+        "U+0069",
+        "U+0078"
+      ]
+    }
+  },
+  {
+    "value": 10,
+    "codes": {
+      "upper": "U+2169",
+      "lower": "U+2179"
+    },
+    "shift_jis": {
+      "upper": [
+        135,
+        93
+      ],
+      "lower": [
+        134,
+        188
+      ]
+    },
+    "decomposed": {
+      "upper": [
+        "U+0058"
+      ],
+      "lower": [
+        "U+0078"
+      ]
+    }
+  },
+  {
+    "value": 11,
+    "codes": {
+      "upper": "U+216A",
+      "lower": "U+217A"
+    },
+    "shift_jis": {
+      "upper": [
+        135,
+        94
+      ],
+      "lower": [
+        134,
+        189
+      ]
+    },
+    "decomposed": {
+      "upper": [
+        "U+0058",
+        "U+0049"
+      ],
+      "lower": [
+        "U+0078",
+        "U+0069"
+      ]
+    }
+  },
+  {
+    "value": 12,
+    "codes": {
+      "upper": "U+216B",
+      "lower": "U+217B"
+    },
+    "shift_jis": {
+      "upper": [
+        135,
+        94
+      ],
+      "lower": [
+        134,
+        189
+      ]
+    },
+    "decomposed": {
+      "upper": [
+        "U+0058",
+        "U+0049",
+        "U+0049"
+      ],
+      "lower": [
+        "U+0078",
+        "U+0069",
+        "U+0069"
+      ]
+    }
+  },
+  {
+    "value": 50,
+    "codes": {
+      "upper": "U+216C",
+      "lower": "U+217C"
+    },
+    "shift_jis": {
+      "upper": [
+        130,
+        107
+      ],
+      "lower": [
+        130,
+        140
+      ]
+    },
+    "decomposed": {
+      "upper": [
+        "U+004C"
+      ],
+      "lower": [
+        "U+006C"
+      ]
+    }
+  },
+  {
+    "value": 100,
+    "codes": {
+      "upper": "U+216D",
+      "lower": "U+217D"
+    },
+    "shift_jis": {
+      "upper": [
+        130,
+        98
+      ],
+      "lower": [
+        130,
+        131
+      ]
+    },
+    "decomposed": {
+      "upper": [
+        "U+0043"
+      ],
+      "lower": [
+        "U+0063"
+      ]
+    }
+  },
+  {
+    "value": 500,
+    "codes": {
+      "upper": "U+216E",
+      "lower": "U+217E"
+    },
+    "shift_jis": {
+      "upper": [
+        130,
+        99
+      ],
+      "lower": [
+        130,
+        132
+      ]
+    },
+    "decomposed": {
+      "upper": [
+        "U+0044"
+      ],
+      "lower": [
+        "U+0064"
+      ]
+    }
+  },
+  {
+    "value": 1000,
+    "codes": {
+      "upper": "U+216F",
+      "lower": "U+217F"
+    },
+    "shift_jis": {
+      "upper": [
+        130,
+        108
+      ],
+      "lower": [
+        130,
+        141
+      ]
+    },
+    "decomposed": {
+      "upper": [
+        "U+004D"
+      ],
+      "lower": [
+        "U+006D"
+      ]
+    }
+  }
+]
