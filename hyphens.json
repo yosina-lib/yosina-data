@@ -282,6 +282,48 @@
     "jisx0208-verbatim": "U+2016"
   },
   {
+    "code": "U+2032",
+    "name": "PRIME",
+    "ascii": [
+      "U+0027"
+    ],
+    "shift_jis": [
+      129,
+      140
+    ],
+    "jisx0201": [
+      "U+0027"
+    ],
+    "jisx0208-1978": [
+      "U+2032"
+    ],
+    "jisx0208-1978-windows": [
+      "U+2032"
+    ],
+    "jisx0208-verbatim": "U+2032"
+  },
+  {
+    "code": "U+2033",
+    "name": "DOUBLE PRIME",
+    "ascii": [
+      "U+0022"
+    ],
+    "shift_jis": [
+      129,
+      141
+    ],
+    "jisx0201": [
+      "U+0022"
+    ],
+    "jisx0208-1978": [
+      "U+2033"
+    ],
+    "jisx0208-1978-windows": [
+      "U+2033"
+    ],
+    "jisx0208-verbatim": "U+2033"
+  },
+  {
     "code": "U+203E",
     "name": "OVERLINE",
     "ascii": null,
@@ -729,48 +771,6 @@
     ],
     "jisx0208-1978-windows": [
       "U+2010"
-    ],
-    "jisx0208-verbatim": null
-  },
-  {
-    "code": "U+FF02",
-    "name": "FULLWIDTH QUOTATION MARK",
-    "ascii": [
-      "U+0022"
-    ],
-    "shift_jis": [
-      129,
-      174
-    ],
-    "jisx0201": [
-      "U+0022"
-    ],
-    "jisx0208-1978": [
-      "U+2033"
-    ],
-    "jisx0208-1978-windows": [
-      "U+FF02"
-    ],
-    "jisx0208-verbatim": null
-  },
-  {
-    "code": "U+FF07",
-    "name": "FULLWIDTH APOSTROPHE",
-    "ascii": [
-      "U+0027"
-    ],
-    "shift_jis": [
-      129,
-      173
-    ],
-    "jisx0201": [
-      "U+0027"
-    ],
-    "jisx0208-1978": [
-      "U+2032"
-    ],
-    "jisx0208-1978-windows": [
-      "U+FF07"
     ],
     "jisx0208-verbatim": null
   },
