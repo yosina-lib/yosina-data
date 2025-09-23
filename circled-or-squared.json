@@ -655,6 +655,11 @@
     "emoji": false
   },
   "U+3248": {
+    "rendering": "10",
+    "type": "circle",
+    "emoji": false
+  },
+  "U+3251": {
     "rendering": "21",
     "type": "circle",
     "emoji": false
